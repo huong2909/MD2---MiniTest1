@@ -46,7 +46,7 @@ public class Main {
                 count++;
             }
         }
-        System.out.println("Số cuốn sách có language là Java là " + count+ " cuốn");
+        System.out.println("Số cuốn sách ProgrammingBook có language là Java là " + count+ " cuốn");
     }
 
 }
